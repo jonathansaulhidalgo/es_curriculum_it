@@ -1,0 +1,112 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding: 5px;
+    background-color: #ced4da;
+}
+.navbar {
+    background-color: transparent;
+}
+.hero{
+    background-image: url("../img/abstract.png");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-position-x: center;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+    color: white;
+}
+.nav-link:link {
+    color: #fef5e3; /* unvisited link */
+}  
+.nav-link:hover {
+    color: #363636; /* mouse over link */
+    background-color: #f6a700;
+    font-weight: bold;
+}
+.btn{
+    color: #fef5e3;
+    background-color: #4C5258;
+    font-weight: bold;
+}
+.btn:hover {
+    color: #363636; /* mouse over link */
+    background-color: #f6a700;
+    font-weight: bold;
+}
+.dropdown-menu{
+    background-color: transparent;
+    color: #fef5e3;
+}
+.dropdown-item{
+    color: #fef5e3; /* unvisited link */
+}  
+.dropdown-menu:hover{
+    color: #363636; /* mouse over link */
+    background-color: #f6a700;
+}
+.dropdown-item:hover{
+    color: #363636; /* mouse over link */
+    background-color: #f6a700;
+    font-weight: bold;
+}
+.badge{
+    color: #363636;
+    background-color: #f6a700;
+}
+.icon-color-lighter {
+    color: #face71;
+}
+.icon-color-light {
+    color: #f9c455;
+}
+.icon-color-middle {
+    color: #f8bb39;
+}
+.icon-color-dark {
+    color: #f7b11c;
+}
+.icon-color-darker {
+    color: #f6a700;
+}
+.link-icon-dark {
+    background-color: #4C5258;
+    color: #fef5e3;
+}
+.link-icon-dark:hover {
+    color: #f6a700;
+}
+.link-icon-light {
+    color: #4C5258;
+}
+.link-icon-light:hover {
+    color: #f6a700;
+}
+.accordion-button{
+    color: #4d535a;
+    background-color: #ced4da;
+    border-color: #ced4da;
+}
+.accordion-button:hover {
+    color: #363636;
+    background-color: #f6a700;
+    font-weight: bold;
+}
+.accordion-item{
+    background-color: #ced4da;
+}
+h3{
+    color:#4d535a;
+    font-weight: bold;
+}
+footer{
+    color: #fef5e3;
+    background-color: #4C5258;
+}
+.list-group{
+    list-style: none;
+}
+.list-group-item-footer {
+    color: #fef5e3;
+    background-color: #4C5258;
+}
