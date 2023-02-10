@@ -70,7 +70,8 @@ body {
     color: #f6a700;
 }
 .link-icon-dark {
-    background-color: #4C5258;
+    background-color: transparent;
+    border: none;
     color: #fef5e3;
 }
 .link-icon-dark:hover {
@@ -109,4 +110,14 @@ footer{
 .list-group-item-footer {
     color: #fef5e3;
     background-color: #4C5258;
+}
+.modal-button{
+    background-color: transparent;
+    border: none;
+    color: #4C5258;
+}
+.modal-button:hover{
+    background-color: transparent;
+    border: none;
+    color: #f6a700;
 }
