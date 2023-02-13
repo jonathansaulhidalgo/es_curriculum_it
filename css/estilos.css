@@ -16,6 +16,13 @@ body {
     height: 90vh;
     color: white;
 }
+a {
+    color: #4d535a;
+    text-decoration: none;
+}
+a:hover {
+    color: #f6a700;
+}
 .nav-link:link {
     color: #fef5e3; /* unvisited link */
 }  
