@@ -30,6 +30,9 @@ a:hover {
     color: #4d535a; /* mouse over link */
     background-color: #f6a700;
 }
+.navbar-toggler{
+    border-style: none;
+}
 .btn{
     color: #fef5e3;
     background-color: #4d535a;
