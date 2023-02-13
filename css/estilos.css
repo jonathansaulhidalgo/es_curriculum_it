@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
 body {
     font-family: 'Open Sans', sans-serif;
     padding: 5px;
@@ -25,6 +31,10 @@ a:hover {
     background-color: white;
     font-weight: bold;
 }
+.navbar-toggler{
+    border-style: none;
+    background-color: #4d535a;
+}
 .nav-link{
     color: #4d535a;
 }
@@ -32,9 +42,6 @@ a:hover {
     font-weight: bold;
     color: white;
     background-color: #f6a700;
-}
-.navbar-toggler{
-    border-style: none;
 }
 .dropdown-menu{
     background-color: white;
@@ -78,9 +85,7 @@ a:hover {
     color: #f6a700;
 }
 .link-icon-dark {
-    background-color: transparent;
-    border: none;
-    color: #fef5e3;
+    color: #4d535a;
 }
 .link-icon-dark:hover {
     color: #f6a700;
@@ -104,6 +109,10 @@ a:hover {
 }
 h3{
     color:#4d535a;
+}
+.bg{
+    background-color: #f6a700;
+    color: white;
 }
 footer{
     background-color: #4d535a;
