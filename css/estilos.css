@@ -33,6 +33,12 @@ a:hover {
 .navbar-toggler{
     border-style: none;
 }
+.navbar-toggler:active{
+    border-style: none;
+}
+.navbar-collapse{
+    background-color: #4d535a;
+}
 .btn{
     color: #fef5e3;
     background-color: #4d535a;
