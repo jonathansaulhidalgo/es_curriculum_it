@@ -27,17 +27,17 @@ a:hover {
     color: #fef5e3; /* unvisited link */
 }  
 .nav-link:hover {
-    color: #363636; /* mouse over link */
+    color: #4d535a; /* mouse over link */
     background-color: #f6a700;
     font-weight: bold;
 }
 .btn{
     color: #fef5e3;
-    background-color: #4C5258;
+    background-color: #4d535a;
     font-weight: bold;
 }
 .btn:hover {
-    color: #363636; /* mouse over link */
+    color: #4d535a; /* mouse over link */
     background-color: #f6a700;
     font-weight: bold;
 }
@@ -49,16 +49,16 @@ a:hover {
     color: #fef5e3; /* unvisited link */
 }  
 .dropdown-menu:hover{
-    color: #363636; /* mouse over link */
+    color: #4d535a; /* mouse over link */
     background-color: #f6a700;
 }
 .dropdown-item:hover{
-    color: #363636; /* mouse over link */
+    color: #4d535a; /* mouse over link */
     background-color: #f6a700;
     font-weight: bold;
 }
 .badge{
-    color: #363636;
+    color: #4d535a;
     background-color: #f6a700;
 }
 .icon-color-lighter {
@@ -85,7 +85,7 @@ a:hover {
     color: #f6a700;
 }
 .link-icon-light {
-    color: #4C5258;
+    color: #4d535a;
 }
 .link-icon-light:hover {
     color: #f6a700;
@@ -109,19 +109,19 @@ h3{
 }
 footer{
     color: #fef5e3;
-    background-color: #4C5258;
+    background-color: #4d535a;
 }
 .list-group{
     list-style: none;
 }
 .list-group-item-footer {
     color: #fef5e3;
-    background-color: #4C5258;
+    background-color: #4d535a;
 }
 .modal-button{
     background-color: transparent;
     border: none;
-    color: #4C5258;
+    color: #4d535a;
 }
 .modal-button:hover{
     background-color: transparent;
