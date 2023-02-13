@@ -9,6 +9,7 @@ body {
     padding: 5px;
     margin: 5px;
     background-color: white;
+    transition: background-color .3s;
 }
 a {
     color: #f6a700;
@@ -61,13 +62,18 @@ a:hover {
     background-color: #f6a700;
     color: white;
 }
-.btn{
-    color: #fef5e3;
-    background-color: #4d535a;
+.btn-day-night{
+    color: white;
 }
-.btn:hover {
-    color: white; /* mouse over link */
+.btn-day-night:hover{
+    color: white;
+}
+.bi-brightness-high-fill{
     background-color: #f6a700;
+}
+.bi-moon-fill{
+    background-color: white;
+    color:#4d535a;
 }
 .icon-color-lighter {
     color: #face71;
