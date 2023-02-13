@@ -29,17 +29,14 @@ a:hover {
 .nav-link:hover {
     color: #4d535a; /* mouse over link */
     background-color: #f6a700;
-    font-weight: bold;
 }
 .btn{
     color: #fef5e3;
     background-color: #4d535a;
-    font-weight: bold;
 }
 .btn:hover {
     color: #4d535a; /* mouse over link */
     background-color: #f6a700;
-    font-weight: bold;
 }
 .dropdown-menu{
     background-color: transparent;
@@ -55,7 +52,6 @@ a:hover {
 .dropdown-item:hover{
     color: #4d535a; /* mouse over link */
     background-color: #f6a700;
-    font-weight: bold;
 }
 .badge{
     color: #4d535a;
@@ -96,16 +92,14 @@ a:hover {
     border-color: #ced4da;
 }
 .accordion-button:hover {
-    color: #363636;
+    color: #4d535a;
     background-color: #f6a700;
-    font-weight: bold;
 }
 .accordion-item{
     background-color: #ced4da;
 }
 h3{
     color:#4d535a;
-    font-weight: bold;
 }
 footer{
     color: #fef5e3;
