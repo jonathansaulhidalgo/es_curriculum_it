@@ -9,7 +9,9 @@ body {
     padding: 5px;
     margin: 5px;
     background-color: white;
-    transition: background-color .3s;
+}
+.stomach{
+    background-color: #ced4da;
 }
 a {
     color: #f6a700;
@@ -50,11 +52,11 @@ a:hover {
     font-weight: bold;
 }
 .dropdown-menu:hover{
-    background-color: transparent;
+    background-color: white;
 }
 .dropdown-item{
-    color: #4d535a;
     background-color: white;
+    color: #4d535a;
     font-weight: bold;
 }
 .dropdown-item:hover{
@@ -104,14 +106,14 @@ a:hover {
 }
 .accordion-button{
     color: #4d535a;
-    background-color: white;
+    background-color: transparent;
 }
 .accordion-button:hover {
     color: white;
     background-color: #f6a700;
 }
 .accordion-item{
-    background-color: white;
+    background-color: transparent;
 }
 h3{
     color:#4d535a;
@@ -121,8 +123,8 @@ h3{
     color: white;
 }
 footer{
-    background-color: #4d535a;
-    color: white;
+    background-color: transparent;
+    color: #4d535a;
 }
 .list-group{
     list-style: none;

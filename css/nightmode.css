@@ -11,6 +11,9 @@ body.night {
     background-color: black;
     color: #fef5e3;
 }
+body.night .stomach{
+    background-color: #676A6D;
+}
 body.night a {
     color: #f6a700;
     text-decoration: none;
@@ -34,7 +37,7 @@ body.night .navbar {
 }
 body.night .navbar-toggler{
     border-style: none;
-    background-color: white;
+    background-color: #f6a700;
 }
 body.night .nav-link{
     color: white;
@@ -50,7 +53,7 @@ body.night .dropdown-menu{
     font-weight: bold;
 }
 body.night .dropdown-menu:hover{
-    background-color: transparent;
+    background-color: black;
 }
 body.night .dropdown-item{
     color: white;
@@ -91,32 +94,31 @@ body.night .icon-color-dark {
 body.night .icon-color-darker {
     color: #f6a700;
 }
-body.night .link-icon-dark {
-    color: #4d535a;
-}
-body.night .link-icon-dark:hover {
-    color: #f6a700;
-}
 body.night .link-icon-light {
-    color: white;
+    color: #4d535a;
 }
 body.night .link-icon-light:hover {
     color: #f6a700;
 }
+body.night .link-icon-dark {
+    color: white;
+}
+body.night .link-icon-dark:hover {
+    color: #f6a700;
+}
 body.night .accordion-button{
     color: #fef5e3;
-    background-color: black;
+    background-color: transparent;
 }
 body.night .accordion-button:hover {
     color: #4d535a;
     background-color: #f6a700;
 }
 body.night .accordion-item{
-    background-color: black;
+    background-color: transparent;
 }
 body.night .list-group-item{
     background-color: black;
-    color:#fef5e3;
 }
 body.night .card{
     background-color: black;
@@ -130,7 +132,7 @@ body.night .bg{
     color: #4d535a;
 }
 body.night footer{
-    background-color: #4d535a;
+    background-color: black;
     color: #fef5e3;
 }
 body.night .list-group{
@@ -139,7 +141,7 @@ body.night .list-group{
 body.night .modal-button{
     background-color: transparent;
     border: none;
-    color: #4d535a;
+    color: white;
 }
 body.night .modal-button:hover{
     background-color: transparent;
@@ -149,4 +151,7 @@ body.night .modal-button:hover{
 body.night .modal-content{
     background-color: black;
     color: #fef5e3;
+}
+body.night img{
+    background-color: white;
 }
