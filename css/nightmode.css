@@ -119,6 +119,7 @@ body.night .accordion-item{
 }
 body.night .list-group-item{
     background-color: black;
+    color:#fef5e3;
 }
 body.night .card{
     background-color: black;
